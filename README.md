@@ -31,4 +31,4 @@
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-![Lucas Sousa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luca-Sousa&show_icons=true&theme=dracula)
+![Lucas Sousa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luca-Sousa&show_icons=true&theme=vue-dark)
