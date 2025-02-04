@@ -1,6 +1,6 @@
 <h1>👋 &nbsp;Olá, sou Lucas Sousa, um desenvolvedor full stack apaixonado por tecnologia e inovação!</h1>
 <p align="center">
-<a href="https://portfolio-lucas-self.vercel.app/"><img src="https://img.shields.io/badge/-Portfólio-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://portfolio-lucas-sousa.vercel.app/"><img src="https://img.shields.io/badge/-Portfólio-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/lucas-sousa-0b79a72a7/"><img src="https://img.shields.io/badge/-Lucas%20Sousa-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:luke.sousa.dev@gmail.com"><img src="https://img.shields.io/badge/-luke.sousa.dev@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
