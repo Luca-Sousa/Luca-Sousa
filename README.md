@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, sou Lucas Sousa, um desenvolvedor frontend apaixonado por tecnologia e inovação!</h1>
+<h1>👋 &nbsp;Olá, sou Lucas Sousa, um Desenvolvedor Front End apaixonado por tecnologia e inovação!</h1>
 <p align="center">
 <a href="https://dev-portfolio-lucas.vercel.app/"><img src="https://img.shields.io/badge/-Portfólio-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/lucas-sousa-0b79a72a7/"><img src="https://img.shields.io/badge/-Lucas%20Sousa-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
@@ -8,8 +8,8 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 💻 &nbsp; **Desenvolvedor Frontend** em busca da primeira oportunidade profissional.  
-- 💚 &nbsp; **Graduando em Ciência da Computação** (6º semestre), com entusiasmo pelo desenvolvimento web e paixão por transformar ideias em soluções digitais interativas e eficientes.  
+- 💻 &nbsp; **Desenvolvedor Front End** em busca da primeira oportunidade profissional.  
+- 💚 &nbsp; **Graduando em Ciência da Computação** (7º semestre), com entusiasmo pelo desenvolvimento web e paixão por transformar ideias em soluções digitais interativas e eficientes.  
 - 🚀 &nbsp; Concluí o curso intensivo **“Formação em Desenvolvimento Web”** (120 horas) entre abril e julho de 2023, onde aprimorei minhas habilidades em **Java** e **ReactJS**, criando aplicações completas e funcionais. Desde então, venho trabalhando em projetos pessoais e participando de formações complementares para continuar evoluindo.  
 - 💡 &nbsp; Atualmente, integro o programa **Full Stack Club**, liderado pelo professor Felipe Rocha. Neste programa, estou desenvolvendo competências avançadas em **JavaScript**, **TypeScript**, **Node.js**, **Next.js**, **Tailwind CSS**, entre outras tecnologias modernas.  
 - 🎯 &nbsp; **Objetivo de Carreira:**  
